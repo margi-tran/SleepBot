@@ -1,0 +1,25 @@
+{
+  "name": "sleepbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Margi Tran",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "fb-messenger-bot-api": "^1.1.0",
+    "fitbit-node": "^2.0.5",
+    "messenger-bot": "^2.4.0",
+    "mongodb": "^2.2.33",
+    "mongoose": "^4.13.7",
+    "node-messenger-platform": "0.0.4",
+    "path": "^0.12.7",
+    "request": "^2.83.0"
+  }
+}
